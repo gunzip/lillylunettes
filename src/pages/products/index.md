@@ -97,5 +97,8 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
+tags:
+  - uei
+blorg: left
 ---
 
