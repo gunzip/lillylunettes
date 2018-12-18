@@ -99,6 +99,6 @@ pricing:
       price: '??'
 tags:
   - uei
-blorg: left
+blorg: /img/mountains.jpg
 ---
 
